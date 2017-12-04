@@ -1,0 +1,3 @@
+/Users/patariki/desktop/Everything/Work/Project/Computing Project/calc/calc_cmake/CMakeFiles/rebuild_cache.dir
+/Users/patariki/desktop/Everything/Work/Project/Computing Project/calc/calc_cmake/CMakeFiles/edit_cache.dir
+/Users/patariki/desktop/Everything/Work/Project/Computing Project/calc/calc_cmake/CMakeFiles/maths.dir

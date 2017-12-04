@@ -1,0 +1,3 @@
+/Users/patariki/Desktop/everything/Work/Project/Computing Project/calc/hello_cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/patariki/Desktop/everything/Work/Project/Computing Project/calc/hello_cmake/build/CMakeFiles/edit_cache.dir
+/Users/patariki/Desktop/everything/Work/Project/Computing Project/calc/hello_cmake/build/CMakeFiles/hello.dir
